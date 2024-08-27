@@ -33,13 +33,21 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Challenge Mario Bros",
+      "url": "https://github.com/GiCCastro/Super-Mario-English-Challenge",
+      "page": "https://giccastro.github.io/Super-Mario-English-Challenge/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Listagem de pokemons usando a Pokeapi",
+      "url": "https://github.com/GiCCastro/api-pokemon",
+      "page": "https://giccastro.github.io/api-pokemon/",
+      "github": true
+    },
+    {
+      "name": "Réplica da Netflix",
+      "url": "https://github.com/GiCCastro/netfliix",
+      "page": "https://giccastro.github.io/netfliix/",
       "github": true
     }
   ],
