@@ -21,10 +21,10 @@
       }
     ],
     "softSkills": [
-      "Responsabilidade",
+      "Boa comunicação",
       "Trabalho em equipe",
-      "Organização",
-      "Foco"
+      "Resolução de problemas",
+      "Facilidade de Aprenizado"
     ]
   },
   "languages": [
@@ -53,9 +53,10 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Tranformação Digital - RH",
+      "period": "Jul. 2024 - até o momento",
+      "description": "Busca de melhores caminhos para transformação digital, gerenciamento de requisições de compras no sistema SAP, atualização de planilhas de KPIs e apoio na automação de processos de RH.
+
     },
     {
       "name": "Software Engineering Lead / DIO",
