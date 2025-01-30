@@ -37,6 +37,12 @@
   ],
   "portfolio": [
     {
+      "name": "E-commerce",
+      "url": "https://github.com/GiCCastro/E-commerce",
+      "page": "https://giccastro.github.io/E-commerce/",
+      "github": true
+    },
+    {
       "name": "Challenge Mario Bros",
       "url": "https://github.com/GiCCastro/Super-Mario-English-Challenge",
       "page": "https://giccastro.github.io/Super-Mario-English-Challenge/",
