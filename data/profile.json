@@ -3,9 +3,8 @@
   "photo": "https://avatars.githubusercontent.com/u/128002398?v=4",
   "job": "Estagiária de Tranformação Digital",
   "location": "Marília - SP",
-  "phone": "(14) 99759-5005",
-  "whatsapp": "5514997595005",
-  "email": "gicristina@gmail.com"
+  "phone": "(14) 99879-5988",
+  "email": "gicristina.scastro@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -38,25 +37,13 @@
   ],
   "portfolio": [
     {
-      "name": "E-commerce",
-      "url": "https://github.com/GiCCastro/E-commerce",
-      "page": "https://giccastro.github.io/E-commerce/",
-      "github": true
-    },
-      {
-      "name": "Landing Page Responsiva",
-      "url": "https://github.com/GiCCastro/Landing-Page-Responsiva",
-      "page": "https://landing-page-responsiva-blue.vercel.app/",
-      "github": true
-    },
-    {
       "name": "Challenge Mario Bros",
       "url": "https://github.com/GiCCastro/Super-Mario-English-Challenge",
       "page": "https://giccastro.github.io/Super-Mario-English-Challenge/",
       "github": true
     },
     {
-      "name": "Listagem de Pokémons",
+      "name": "Listagem de pokemons usando a Pokeapi",
       "url": "https://github.com/GiCCastro/api-pokemon",
       "page": "https://giccastro.github.io/api-pokemon/",
       "github": true
@@ -78,7 +65,7 @@
     {
       "name": "Sete Digital – Estagiária Analista de Suporte",
       "period": "Mai/2024 – Jul/2024",
-      "description": "Configuração de opções de pagamento e métodos de envio na plataforma Tray, personalização do layout de sites e suporte técnico."
+      "description": "Configuração de opções de pagamento e métodos de envio na plataforma Tray, personalização do layout de sites e suporte técnico especializado."
     },
     {
       "name": "Agência Auaha – Estagiária em Suporte de Plataforma",
