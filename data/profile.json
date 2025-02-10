@@ -48,12 +48,6 @@
   ],
   "portfolio": [
     {
-      "name": "Landing Page Imobiliária",
-      "url": "https://github.com/GiCCastro/Landing-Page-Imobiliaria",
-      "page": "https://landing-page-imobiliaria-giovanas-projects-91d3c531.vercel.app/",
-      "github": true
-    },
-    {
       "name": "E-commerce",
       "url": "https://github.com/GiCCastro/E-commerce",
       "page": "https://giccastro.github.io/E-commerce/",
