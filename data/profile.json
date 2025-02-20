@@ -47,6 +47,18 @@
     "Inglês (básico)"
   ],
   "portfolio": [
+     {
+      "name": "Banner Imobiliária",
+      "url": "https://github.com/GiCCastro/mp-banner-imobiliaria",
+      "page": "https://giccastro.github.io/mp-banner-imobiliaria/",
+      "github": true
+    },
+      {
+      "name": "Blog - Codelab 01",
+      "url": "https://github.com/GiCCastro/codelab--desafio-01",
+      "page": "codelab-desafio-01.vercel.app",
+      "github": true
+    },
     {
       "name": "E-commerce",
       "url": "https://github.com/GiCCastro/E-commerce",
