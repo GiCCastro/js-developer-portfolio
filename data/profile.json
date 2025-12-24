@@ -56,13 +56,13 @@
       {
       "name": "Blog - Codelab 01",
       "url": "https://github.com/GiCCastro/codelab--desafio-01",
-      "page": "codelab-desafio-01.vercel.app",
+      "page": "https://codelab-desafio-01.vercel.app/",
       "github": true
     },
     {
       "name": "E-commerce",
       "url": "https://github.com/GiCCastro/E-commerce",
-      "page": "https://giccastro.github.io/E-commerce/",
+      "page": "https://giccastro.github.io/e-commerce/",
       "github": true
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "Challenge Mario Bros",
       "url": "https://github.com/GiCCastro/Super-Mario-English-Challenge",
-      "page": "https://giccastro.github.io/Super-Mario-English-Challenge/",
+      "page": "https://giccastro.github.io/super-mario-english-challenge/",
       "github": true
     },
     {
