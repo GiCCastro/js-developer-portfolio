@@ -1,7 +1,7 @@
 {
   "name": "Giovana Castro",
   "photo": "https://avatars.githubusercontent.com/u/128002398?v=4",
-  "job": "Estagiária de Transformação Digital",
+  "job": "Estagiária em Desenvolvimento Frontend",
   "location": "Marília - SP",
   "phone": "(14) 99759-5005",
   "whatsapp": "14997595005",
@@ -51,6 +51,12 @@
     "Inglês (básico)"
   ],
   "portfolio": [
+     {
+      "name": "Coffee & Code Café",
+      "url": "https://github.com/GiCCastro/coffee_and_code_cafe",
+      "page": "coffee-and-code-cafe.vercel.app",
+      "github": true
+    },
      {
       "name": "Banner Imobiliária",
       "url": "https://github.com/GiCCastro/mp-banner-imobiliaria",
