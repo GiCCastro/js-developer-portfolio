@@ -26,10 +26,6 @@
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
-       {
-        "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
-      },
         {
         "name": "Github",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
@@ -101,9 +97,14 @@
     }
   ],
   "experience": [
+     {
+      "name": "Ciag (Centro de Inovação no Agronegócio) - Estagiária em Desenvolvimento Frontend",
+      "period": "Abr. 2025 - Abr. 2026",
+      "description": "Desenvolvimento de interfaces web utilizando Angular e TypeScript, com foco na criação de componentes reutilizáveis e na organização da arquitetura frontend. Experiência na integração com APIs REST, realizando o consumo e tratamento de dados, além da interação com informações provenientes de banco de dados (SQL) para exibição na interface. Atuação em garantia de qualidade e homologação de interfaces, incluindo testes manuais e validação de fluxos visuais e funcionais."
+    },
     {
       "name": "Transformação Digital - RH",
-      "period": "Jul. 2024 - até o momento",
+      "period": "Jul. 2024 - Abr.2025",
       "description": "Busca de melhores caminhos para transformação digital, gerenciamento de requisições de compras no sistema SAP, atualização de planilhas de KPIs e apoio na automação de processos de RH."
     },
     {
